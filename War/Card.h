@@ -1,8 +1,8 @@
 /*
   File: Card.h
-  Author:  Dorian P. Yeager
-  Course:  COMP 220, Computer Programming II
-  Date:    30 August 2013
+ Author: Group B
+Course: CS 370, Software Engineering
+Date: 09/15/2020
   Description:  This file provides the definitions of the data types
                 Suit, Value, and Card.
 */
