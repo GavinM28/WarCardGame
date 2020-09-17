@@ -1,7 +1,7 @@
 /*
-  Author:  Dorian P. Yeager
-  Course:  COMP 220, Computer Programming II
-  Date:    30 August 2013
+Author: Group B
+Course: CS 370, Software Engineering
+Date: 09/15/2020
   Description:  This file implements the driver
                 program for this assignment.
 */
