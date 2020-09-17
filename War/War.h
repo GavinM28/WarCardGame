@@ -1,7 +1,7 @@
 /*
-Author: Class Warfare
-Course: COMP 220, Computer Programming II
-Date: 09/25/14
+Author: Group B
+Course: CS 370, Software Engineering
+Date: 09/15/2020
 Description: The War class header file.
 */
 
